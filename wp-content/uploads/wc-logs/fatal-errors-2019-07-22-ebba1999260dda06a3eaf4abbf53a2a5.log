@@ -1,0 +1,2 @@
+2019-07-22T15:46:58+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\hackathon\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper.php on line 1343
+
